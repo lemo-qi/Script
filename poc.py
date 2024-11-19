@@ -1,7 +1,7 @@
 import requests
 import time
 
-url = "http://node5.anna.nssctf.cn:25608/?file="
+url = "http://node5.anna.nssctf.cn:25608/"
 result = ""
 
 for i in range(1,5):    # 定义i、j、k三个变量
